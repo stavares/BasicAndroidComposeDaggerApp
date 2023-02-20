@@ -20,11 +20,11 @@ android {
         jvmTarget = "11"
     }
 
-    namespace 'org.sctgamingllc.cryptocurrencyapp'
+    namespace 'org.sctgamingllc.starterapp'
     compileSdk 33
 
     defaultConfig {
-        applicationId 'org.sctgamingllc.cryptocurrencyapp'
+        applicationId 'org.sctgamingllc.starterapp'
         minSdk 24
         targetSdk 33
         versionCode 1
